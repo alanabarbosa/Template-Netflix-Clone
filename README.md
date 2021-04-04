@@ -1,6 +1,6 @@
-Template responsivo Netflix-Clone
+Template responsivo Netflix Clone
 
-Esse template foi feito com Boostrap e JavaScript
+Esse template foi feito com Boostrap e JavaScript //
 This Template has made with Boostrap and Javascript
 
 
